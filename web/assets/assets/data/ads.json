@@ -1,0 +1,27 @@
+[
+    {
+        "id": "AD001",
+        "imageUrl": "assets/images/ads_1.png",
+        "company": "ATechDog",
+        "destination": "commercialCarouselAtPacks"
+    },
+    {
+        "id": "AD002",
+        "imageUrl": "assets/images/ads_2.png",
+        "company": "ATechDog",
+        "destination": "commercialCarouselAtPacks"
+    },
+    {
+        "id": "AD003",
+        "imageUrl": "assets/images/ads_3.png",
+        "company": "ATechDog",
+        "destination": "commercialCarouselAtPacks"
+    },
+    {
+        "id": "AD003",
+        "imageUrl": "assets/images/ads_4.png",
+        "company": "ATechDog",
+        "destination": "commercialCarouselAtPacks"
+    }
+]
+

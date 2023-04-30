@@ -1,0 +1,361 @@
+[
+    {   
+        "id": "DOG001",
+        "name": "Vladimir",
+        "createdTimestamp": 1678051301325,
+        "imageUrl": "assets/images/cover_vladimir.png",
+        "breed": "supermutt",
+        "gender": "male",
+        "neuteredOrSpayed": true,
+        "birthday": "2021-09-07",
+        "dna": {
+            "provider": "Embark",
+            "verified": true,
+            "result": [
+                {
+                    "breed": "australianShepherd",
+                    "percentage": 52.4
+                },
+                {
+                    "breed": "germanShepherd",
+                    "percentage": 19.8
+                },
+                {
+                    "breed": "borderCollie",
+                    "percentage": 9.8
+                },
+                {
+                    "breed": "bassetHound",
+                    "percentage": 9.0
+                },
+                {
+                    "breed": "supermutt",
+                    "percentage": 9.0
+                }
+            ]
+        },
+        "vaccine": {
+            "rabiesVaccine": true,
+            "rabiesVaccineDetails": {
+                "type": "rabies",
+                "date": "2022-12-09",
+                "expirationDate": "2025-12-08",
+                "tagNumber": null,
+                "phoneNumberOnTag": null,
+                "vet": {
+                    "office": "Sun Lakes Chandler Animal Clinic",
+                    "address": "9670 East Riggs Rd. #109, Sun Lakes, AZ 85248",
+                    "phoneNumber": "480-895-7633"
+                },
+                "verified": true
+            }
+        },
+        "disability": [],
+        "location": {
+            "city": "Chandler",
+            "state": "AZ",
+            "zipcode": "85286"
+        },
+        "personality": ["goofy", "humanFriendly", "dogFriendly", "happy", "inteligent", "sneaky"],
+        "favorites": {
+            "toys": ["Tennis Ball", "Cardboard Box", "Carrots", "Squirrels", "Man Tools", "Bottles"],
+            "treats": ["Purina Beneful", "Wiggles & Wags Brunchie Munchies", "Cheese Ball", "Pizza", "Peanut Butter", "Ice Cream"],
+            "places": []
+        },
+        "playmates": ["DOG002", "DOG003", "DOG004"],
+        "packs": {
+            "created": ["PACK001"],
+            "joined": ["PACK002", "PACK003", "PACK004"]
+        },
+        "family": [
+            {
+                "relation": "mom",
+                "type": "human",
+                "id": "USER001"
+            },
+            {
+                "relation": "dad",
+                "type": "human",
+                "id": "USER002"
+            },
+            {
+                "relation": "sister",
+                "type": "dog",
+                "id":"DOG002"
+            }
+        ]
+    },
+    {
+        "id": "DOG002",
+        "name": "Misha",
+        "createdTimestamp": 1678051341334,
+        "imageUrl": "assets/images/cover_misha.png",
+        "breed": "supermutt",
+        "gender": "female",
+        "neuteredOrSpayed": true,
+        "birthday": "2021-09-07",
+        "dna": {
+            "provider": "Embark",
+            "verified": true,
+            "result": [
+                {
+                    "breed": "australianShepherd",
+                    "percentage": 61.4
+                },
+                {
+                    "breed": "germanShepherd",
+                    "percentage": 12.7
+                },
+                {
+                    "breed": "borderCollie",
+                    "percentage": 11.4
+                },
+                {
+                    "breed": "bassetHound",
+                    "percentage": 6.5
+                },
+                {
+                    "breed": "supermutt",
+                    "percentage": 8.0
+                }
+            ]
+        },
+        "vaccine": {
+            "rabiesVaccine": true,
+            "rabiesVaccineDetails": {
+                "type": "rabies",
+                "date": "2022-12-09",
+                "expirationDate": "2025-12-08",
+                "tagNumber": null,
+                "phoneNumberOnTag": null,
+                "vet": {
+                    "office": "Sun Lakes Chandler Animal Clinic",
+                    "address": "9670 East Riggs Rd. #109, Sun Lakes, AZ 85248",
+                    "phoneNumber": "480-895-7633"
+                },
+                "verified": true
+            }
+        },
+        "disability": [
+            {
+                "type": "vision",
+                "detail": "Right Eye Blind"
+            }
+        ],
+        "location": {
+            "city": "Chandler",
+            "state": "AZ",
+            "zipcode": "85286"
+        },
+        "personality": ["deadly", "protective", "energetic", "wild", "shy", "nervous"],
+        "favorites": {
+            "toys": ["Tennis Ball", "Slippers", "Carrots", "Squirrels"],
+            "treats": ["Purina Beneful", "Wiggles & Wags Brunchie Munchies", "Cheese Ball"],
+            "places": []
+        },
+        "playmates": ["DOG001"],
+        "packs": {
+            "created": ["PACK002"],
+            "joined": ["PACK001", "PACK003", "PACK004"]
+        },
+        "family": [
+            {
+                "relation": "mom",
+                "type": "human",
+                "id": "USER001"
+            },
+            {
+                "relation": "dad",
+                "type": "human",
+                "id": "USER002"
+            },
+            {
+                "relation": "brother",
+                "type": "dog",
+                "id":"DOG001"
+            }
+        ]
+    },
+    {
+        "id": "DOG003",
+        "name": "Misha",
+        "createdTimestamp": 1678051341334,
+        "imageUrl": "assets/images/cover_misha.png",
+        "breed": "supermutt",
+        "gender": "female",
+        "neuteredOrSpayed": true,
+        "birthday": "2021-09-07",
+        "dna": {
+            "provider": "Embark",
+            "verified": true,
+            "result": [
+                {
+                    "breed": "australianShepherd",
+                    "percentage": 61.4
+                },
+                {
+                    "breed": "germanShepherd",
+                    "percentage": 12.7
+                },
+                {
+                    "breed": "borderCollie",
+                    "percentage": 11.4
+                },
+                {
+                    "breed": "bassetHound",
+                    "percentage": 6.5
+                },
+                {
+                    "breed": "supermutt",
+                    "percentage": 8.0
+                }
+            ]
+        },
+        "vaccine": {
+            "rabiesVaccine": true,
+            "rabiesVaccineDetails": {
+                "type": "rabies",
+                "date": "2022-12-09",
+                "expirationDate": "2025-12-08",
+                "tagNumber": null,
+                "phoneNumberOnTag": null,
+                "vet": {
+                    "office": "Sun Lakes Chandler Animal Clinic",
+                    "address": "9670 East Riggs Rd. #109, Sun Lakes, AZ 85248",
+                    "phoneNumber": "480-895-7633"
+                },
+                "verified": true
+            }
+        },
+        "disability": [
+            {
+                "type": "vision",
+                "detail": "Right Eye Blind"
+            }
+        ],
+        "location": {
+            "city": "Chandler",
+            "state": "AZ",
+            "zipcode": "85286"
+        },
+        "personality": ["deadly", "protective", "energetic", "wild", "shy", "nervous"],
+        "favorites": {
+            "toys": ["Tennis Ball", "Slippers", "Carrots", "Squirrels"],
+            "treats": ["Purina Beneful", "Wiggles & Wags Brunchie Munchies", "Cheese Ball"],
+            "places": []
+        },
+        "playmates": ["DOG001"],
+        "packs": {
+            "created": ["PACK002"],
+            "joined": ["PACK001", "PACK003", "PACK004"]
+        },
+        "family": [
+            {
+                "relation": "mom",
+                "type": "human",
+                "id": "USER001"
+            },
+            {
+                "relation": "dad",
+                "type": "human",
+                "id": "USER002"
+            },
+            {
+                "relation": "brother",
+                "type": "dog",
+                "id":"DOG001"
+            }
+        ]
+    },
+    {
+        "id": "DOG004",
+        "name": "Misha",
+        "createdTimestamp": 1678051341334,
+        "imageUrl": "assets/images/cover_misha.png",
+        "breed": "supermutt",
+        "gender": "female",
+        "neuteredOrSpayed": true,
+        "birthday": "2021-09-07",
+        "dna": {
+            "provider": "Embark",
+            "verified": true,
+            "result": [
+                {
+                    "breed": "australianShepherd",
+                    "percentage": 61.4
+                },
+                {
+                    "breed": "germanShepherd",
+                    "percentage": 12.7
+                },
+                {
+                    "breed": "borderCollie",
+                    "percentage": 11.4
+                },
+                {
+                    "breed": "bassetHound",
+                    "percentage": 6.5
+                },
+                {
+                    "breed": "supermutt",
+                    "percentage": 8.0
+                }
+            ]
+        },
+        "vaccine": {
+            "rabiesVaccine": true,
+            "rabiesVaccineDetails": {
+                "type": "rabies",
+                "date": "2022-12-09",
+                "expirationDate": "2025-12-08",
+                "tagNumber": null,
+                "phoneNumberOnTag": null,
+                "vet": {
+                    "office": "Sun Lakes Chandler Animal Clinic",
+                    "address": "9670 East Riggs Rd. #109, Sun Lakes, AZ 85248",
+                    "phoneNumber": "480-895-7633"
+                },
+                "verified": true
+            }
+        },
+        "disability": [
+            {
+                "type": "vision",
+                "detail": "Right Eye Blind"
+            }
+        ],
+        "location": {
+            "city": "Chandler",
+            "state": "AZ",
+            "zipcode": "85286"
+        },
+        "personality": ["deadly", "protective", "energetic", "wild", "shy", "nervous"],
+        "favorites": {
+            "toys": ["Tennis Ball", "Slippers", "Carrots", "Squirrels"],
+            "treats": ["Purina Beneful", "Wiggles & Wags Brunchie Munchies", "Cheese Ball"],
+            "places": []
+        },
+        "playmates": ["DOG001"],
+        "packs": {
+            "created": ["PACK002"],
+            "joined": ["PACK001", "PACK003", "PACK004"]
+        },
+        "family": [
+            {
+                "relation": "mom",
+                "type": "human",
+                "id": "USER001"
+            },
+            {
+                "relation": "dad",
+                "type": "human",
+                "id": "USER002"
+            },
+            {
+                "relation": "brother",
+                "type": "dog",
+                "id":"DOG001"
+            }
+        ]
+    }
+]

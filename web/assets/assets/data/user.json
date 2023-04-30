@@ -1,0 +1,21 @@
+[
+    {
+        "id": "USER001",
+        "name": "mama",
+        "email": "mama@example.com",
+        "phone": "1112223333",
+        "dogs": {
+            "own": ["DOG001", "DOG002"]
+        }
+    },
+    {
+        "id": "USER002",
+        "name": "dada",
+        "email": "dada@example.com",
+        "phone": "1112223333",
+        "dogs": {
+            "own": ["DOG001", "DOG002"]
+        }
+    }
+]
+
